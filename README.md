@@ -1,7 +1,4 @@
-# LPDE
-# Estágio
-
-Repositório de teste para praticar a formatação em markdown
+# Repositório de teste para praticar a formatação em markdown
 
 # Novo Título
 ## Título menor
