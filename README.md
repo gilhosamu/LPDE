@@ -8,3 +8,11 @@ Análise dos equipamentos dispostos do laboratório
 ![Bancada](./fotos/bancada.jpg)
 
 __Texto em negrito__
+
+```C
+int main(){
+
+  puts("Incluindo código na caixa de texto");
+
+}
+```
