@@ -16,8 +16,6 @@ Inserção de imagem através do local de armazenamento:
 
 ![Bancada](./fotos/bancada.jpg)
 
-__Texto em negrito__
-
 ```C
 int main(){
 
