@@ -9,9 +9,7 @@
 
 * Lista
 * Simples
-
-- Lista
-- Tracejada
+* Pode substituir o * por -
 
 
 Inserção de imagem através do local de armazenamento:
