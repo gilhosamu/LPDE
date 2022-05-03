@@ -1,9 +1,9 @@
 # LPDE
 # Estágio
 
-Análise dos equipamentos dispostos do laboratório
+Repositório de teste para praticar a formatação em markdown
 
-1. Bancada (a ser organizada na quarta)
+1. Incluir imagem
 
 ![Bancada](./fotos/bancada.jpg)
 
@@ -16,3 +16,14 @@ int main(){
 
 }
 ```
+
+Exemplo | Inclusão de Tabelas
+--------- | ------
+Exemplo 1 | É
+Exemplo 2 | ASSIM
+Exemplo 3 | QUE
+Exemplo 4 | INCLUI
+
+# Novo Título
+
+- [Meu perfil](https://github.com/gilhosamu)
